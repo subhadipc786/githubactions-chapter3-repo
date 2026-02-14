@@ -1,0 +1,16 @@
+{
+  "name": "simple-node-project",
+  "version": "1.0.0",
+  "description": "A demo Node.js project with tests",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "jest"
+  },
+  "keywords": ["node", "demo", "jest"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
