@@ -10,7 +10,8 @@ export default [
                 exports: "readonly",
                 test: "readonly",
                 expect: "readonly",
-                describe: "readonly"
+                describe: "readonly",
+                require: "readonly"  // <--- ADDED THIS LINE
             }
         },
         rules: {
